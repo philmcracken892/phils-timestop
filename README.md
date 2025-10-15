@@ -18,3 +18,4 @@ Commands: For When the Curse Needs a Nudge (Or a Nap)
 
 /cursedwatch – Activate your pocket apocalypse. (Console-safe for admins; item optional.)
 /resetclock – "Abort mission!" Debug nuke for timeline meddlers. Use sparingly, or you'll summon the time police.
+add ogg file to interact sound
