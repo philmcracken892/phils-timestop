@@ -1,0 +1,1 @@
+cursed_watch = { name = 'cursed_watch', label = 'cursed_watch', type = 'item',weight = 100, type = 'cursed_watch', image = 'pocket_watch1.png',unique = false, useable = true, shouldClose = true, description = 'stoptime' },
